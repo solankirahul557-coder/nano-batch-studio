@@ -5,7 +5,7 @@ photos into styled scenes, or generate images from a product list. Built for
 e-commerce and interior work where you need the same treatment applied across
 many products.
 
-Runs locally on Windows, macOS and Linux. Bring your own API key.
+Runs locally on Windows, macOS and Linux. Bring your own API key for the desktop app.
 
 🛒 **[Get it as an agent skill on Agensi](https://www.agensi.io/skills/nano-batch-studio)** — run it straight from Claude Code, Cursor or Codex, no API key needed.
 
