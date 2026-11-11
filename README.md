@@ -7,6 +7,8 @@ many products.
 
 Runs locally on Windows, macOS and Linux. Bring your own API key.
 
+🛒 **[Get it as an agent skill on Agensi](https://www.agensi.io/skills/nano-batch-studio)** — run it straight from Claude Code, Cursor or Codex, no API key needed.
+
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
